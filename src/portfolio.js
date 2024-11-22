@@ -26,7 +26,7 @@ const greeting = {
     "A passionate robotics 🤖 enthusiast deeply fascinated by control systems and path planning. I thrive on tackling complex challenges in robotics, particularly those involving motion planning, sensor fusion, and advanced control techniques. My hands-on experience ranges from developing innovative algorithms to integrating hardware and simulation tools."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1bYeTNulJRHTFTLDuk5cckBZuIb_k3dzZ/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
