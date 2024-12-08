@@ -207,7 +207,7 @@ const workExperiences = {
       role: "Graduate Researcher",
       company: "Carnegie Mellon University - Soft Machines Lab",
       companylogo: require("./assets/images/sml_logo.png"),
-      date: "Aug 2023 – Present",
+      date: "Aug 2023 - Present",
       desc: "Conducting advanced research in in-space manufacturing and robotic motion planning.",
       descBullets: [
         "Enhanced an open-source FRESH 3D bio-printer for UV-curable soft ink applications",
@@ -219,7 +219,7 @@ const workExperiences = {
       role: "Project Intern",
       company: "Forbes Marshall Pvt. Ltd.",
       companylogo: require("./assets/images/forbes_marshall_logo.png"),
-      date: "Jan 2023 – June 2023",
+      date: "Jan 2023 - June 2023",
       desc: "Optimized manufacturing processes to enhance productivity in boiler manufacturing.",
       descBullets: [
         "Conducted time analysis to identify productivity bottlenecks",
@@ -231,7 +231,7 @@ const workExperiences = {
       role: "Mechanical Intern",
       company: "The Robotics Forum, Vishwakarma Institute of Technology",
       companylogo: require("./assets/images/trf_logo.png"),
-      date: "May 2020 – Sep 2020",
+      date: "May 2020 - Sep 2020",
       desc: "Contributed to the design and development of robots for the DD ROBOCON 2021 competition.",
       descBullets: [
         "Designed and modeled mechanisms for robots using CAD tools like SolidWorks and AutoCAD",
