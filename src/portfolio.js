@@ -265,12 +265,12 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME CONTROL AND PLANNING PROJECTS I HAVE WORKED ON",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Space University Research Initiative",
+      projectDesc: "Enhanced an open-source FRESH 3D bio-printer to support UV-curable soft ink applications and developed precise motion control for a multi-DOF UR robotic arm.",
       footerLink: [
         {
           name: "Visit Website",
@@ -281,12 +281,34 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Comparative Analysis of Kalman Filters for 2D SLAM",
+      projectDesc: "Analyzed MKF, EnKF, and I-ExKF for 2D SLAM, highlighting MKF's robustness against non-linear and non-Gaussian noise. Developed a Moment-Based Kalman filter to improve robustness.",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Autonomous Driving Controller for Tesla Model 3",
+      projectDesc: "Designed a discrete-time infinite horizon LQR lateral controller, implemented A* path planning, and integrated EKF SLAM to enable autonomous driving without default sensor input.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Hand Rehabilitation using Soft Robotics",
+      projectDesc: "Designed and fabricated PneuNet actuators using Ecoflex-30 for a wearable rehabilitation device, enabling remote physical therapy with finger-mounted actuators.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://saayahealth.com/"
         }
       ]
     }
