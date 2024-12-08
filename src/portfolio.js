@@ -169,78 +169,78 @@ const techStack = {
 
 // Work experience section
 
-// const workExperiences = {
-//   display: true, //Set it to true to show workExperiences Section
-//   experience: [
-//     {
-//       role: "Software Engineer",
-//       company: "Facebook",
-//       companylogo: require("./assets/images/facebookLogo.png"),
-//       date: "June 2018 – Present",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-//       descBullets: [
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-//       ]
-//     },
-//     {
-//       role: "Front-End Developer",
-//       company: "Quora",
-//       companylogo: require("./assets/images/quoraLogo.png"),
-//       date: "May 2017 – May 2018",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//     },
-//     {
-//       role: "Software Engineer Intern",
-//       company: "Airbnb",
-//       companylogo: require("./assets/images/airbnbLogo.png"),
-//       date: "Jan 2015 – Sep 2015",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//     }
-//   ]
-// };
-
 const workExperiences = {
-  display: true, // Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Graduate Researcher",
-      company: "Carnegie Mellon University - Soft Machines Lab",
-      companylogo: require("./assets/images/sml_logo.png"),
-      date: "Aug 2023 - Present",
-      desc: "Conducting advanced research in in-space manufacturing and robotic motion planning.",
+      role: "Software Engineer",
+      company: "Facebook",
+      companylogo: require("./assets/images/facebookLogo.png"),
+      date: "June 2018 - Present",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Enhanced an open-source FRESH 3D bio-printer for UV-curable soft ink applications",
-        "Developed precise motion control for multi-DOF robotic arms using ROS and Python",
-        "Fabricated intricate 2D and 3D UV-curable structures with robotic systems"
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      role: "Project Intern",
-      company: "Forbes Marshall Pvt. Ltd.",
-      companylogo: require("./assets/images/forbes_marshall_logo.png"),
-      date: "Jan 2023 - June 2023",
-      desc: "Optimized manufacturing processes to enhance productivity in boiler manufacturing.",
-      descBullets: [
-        "Conducted time analysis to identify productivity bottlenecks",
-        "Implemented advanced robotic techniques to reduce drilling and welding operation durations",
-        "Achieved a 75% increase in productivity through process improvements"
-      ]
+      role: "Front-End Developer",
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 - May 2018",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Mechanical Intern",
-      company: "The Robotics Forum, Vishwakarma Institute of Technology",
-      companylogo: require("./assets/images/trf_logo.png"),
-      date: "May 2020 - Sep 2020",
-      desc: "Contributed to the design and development of robots for the DD ROBOCON 2021 competition.",
-      descBullets: [
-        "Designed and modeled mechanisms for robots using CAD tools like SolidWorks and AutoCAD",
-        "Gained hands-on experience with drive systems, actuators, sensors, and microcontrollers",
-        "Played a key role in creating robots for Arrow Shooting, Pick and Place, and Lifting challenges"
-      ]
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 - Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
 };
+
+// const workExperiences = {
+//   display: true, // Set it to true to show workExperiences Section
+//   experience: [
+//     {
+//       role: "Graduate Researcher",
+//       company: "Carnegie Mellon University - Soft Machines Lab",
+//       companylogo: require("./assets/images/sml_logo.png"),
+//       date: "Aug 2023 - Present",
+//       desc: "Conducting advanced research in in-space manufacturing and robotic motion planning.",
+//       descBullets: [
+//         "Enhanced an open-source FRESH 3D bio-printer for UV-curable soft ink applications",
+//         "Developed precise motion control for multi-DOF robotic arms using ROS and Python",
+//         "Fabricated intricate 2D and 3D UV-curable structures with robotic systems"
+//       ]
+//     },
+//     {
+//       role: "Project Intern",
+//       company: "Forbes Marshall Pvt. Ltd.",
+//       companylogo: require("./assets/images/forbes_marshall_logo.png"),
+//       date: "Jan 2023 - June 2023",
+//       desc: "Optimized manufacturing processes to enhance productivity in boiler manufacturing.",
+//       descBullets: [
+//         "Conducted time analysis to identify productivity bottlenecks",
+//         "Implemented advanced robotic techniques to reduce drilling and welding operation durations",
+//         "Achieved a 75% increase in productivity through process improvements"
+//       ]
+//     },
+//     {
+//       role: "Mechanical Intern",
+//       company: "The Robotics Forum, Vishwakarma Institute of Technology",
+//       companylogo: require("./assets/images/trf_logo.png"),
+//       date: "May 2020 - Sep 2020",
+//       desc: "Contributed to the design and development of robots for the DD ROBOCON 2021 competition.",
+//       descBullets: [
+//         "Designed and modeled mechanisms for robots using CAD tools like SolidWorks and AutoCAD",
+//         "Gained hands-on experience with drive systems, actuators, sensors, and microcontrollers",
+//         "Played a key role in creating robots for Arrow Shooting, Pick and Place, and Lifting challenges"
+//       ]
+//     }
+//   ]
+// };
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
