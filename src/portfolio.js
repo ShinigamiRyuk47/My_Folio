@@ -152,16 +152,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Controls", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Motion Planning",
       progressPercentage: "70%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -201,7 +201,6 @@ const workExperiences = {
       company: "The Robotics Forum, Vishwakarma Institute of Technology",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2015 - Sep 2015",
-      date: "May 2020 - Sep 2020",
       desc: "Contributed to the design and development of robots for the DD ROBOCON 2021 competition.",
       descBullets: [
         "Designed and modeled mechanisms for robots using CAD tools like SolidWorks and AutoCAD",
