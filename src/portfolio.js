@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I Do",
-  subTitle: "PASSIONATE ABOUT ROBOTICS, CONTROL, AND PLANNING, EXPLORING EVERY TECH STACK",
+  subTitle: "PASSIONATE ABOUT ROBOTICS, CONTROL AND PLANNING",
   skills: [
     emoji(
       "⚡ Design and implement advanced control systems for autonomous robots and drones"
@@ -125,23 +125,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Carnegie Mellon University",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      subHeader: "Master of Science in Mechannical Engineering",
+      duration: "August 2023 - May 2025",
+      desc: "Participated in the research of In-space Manufacturing with Soft Machines Lab and submiitted 1 to MobiCom'25",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Vishwakarma Institute of Technology",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Bachelor of Technology in Mechanical Engineering",
+      duration: "August 2019 - June 2023",
+      desc: "Ranked top 10% in the program.",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
