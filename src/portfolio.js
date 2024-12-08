@@ -48,17 +48,29 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "What I Do",
+  subTitle: "PASSIONATE ABOUT ROBOTICS, CONTROL, AND PLANNING, EXPLORING EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Design and implement advanced control systems for autonomous robots and drones"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Develop motion planning algorithms for path optimization and navigation in dynamic environments"
+    ),
+    emoji(
+      "⚡ Integrate and leverage cutting-edge tools such as ROS, PyBullet, and Isaac Sim for simulation and deployment"
+    ),
+    emoji(
+      "⚡ Perform sensor fusion using LiDAR, cameras, and IMUs for precise environmental perception"
+    ),
+    emoji(
+      "⚡ Explore reinforcement learning techniques to enhance decision-making and adaptability"
+    ),
+    emoji(
+      "⚡ Optimize robotics systems for real-time applications using modern programming frameworks and languages"
     )
-  ],
+  ]
+};
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
