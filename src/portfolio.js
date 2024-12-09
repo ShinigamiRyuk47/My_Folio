@@ -274,7 +274,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://docs.google.com/document/d/14nBVvpuuf2_ICRxQUBqxqbrK20Wj17Fhl3tK2v-sUY0/edit?usp=sharing"
         }
         //  you can add extra buttons here.
       ]
@@ -286,7 +286,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://docs.google.com/document/d/1rgZHO1H6VPKl2zBN2BVW2dhSpXzgo8d1Ddp76L6UPo8/edit?usp=sharing"
         }
       ]
     },
@@ -297,7 +297,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://docs.google.com/document/d/1ufEIcdOzGfMGr8xvj-PD6IBHNUCDUuoj_aIFrUVWuGM/edit?usp=sharing"
         }
       ]
     },
@@ -308,7 +308,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://docs.google.com/document/d/1VAcp7xZSahDgi4Aw8dlBg_2mpnn_8tYG-jhC0uMOgco/edit?usp=sharing"
         }
       ]
     }
